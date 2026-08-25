@@ -1,0 +1,2 @@
+# Contains an exposed API key - remove this line once train_3d_32.py is fixed
+training/train_3d_32.py
